@@ -1,0 +1,7 @@
+course_name=input("enter the course name: ")
+course_status=input("enter the course status: ")
+current_week=input("enter the current week: ")
+course=(course_name,course_status,current_week)
+update_week=input("enter the update week: ")
+new_course=(course_name,course_status,update_week)
+print(new_course)
